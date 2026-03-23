@@ -9,15 +9,13 @@
   - 좌표계/회전행렬
   - Forward Kinematics
   - Inverse Kinematics
-  - 3-dimensions coordinate
 
 4장 : 로봇 모델링 & TF2
-  - PhysicAI Arm 구조
   - URDF
-  - Kinematic chain
   - TF2
   - robot_state_publisher
   - Rviz 시각화
+  - PhysicAI Arm 구조
 
 5장 : 로봇 제어
   - JointState
