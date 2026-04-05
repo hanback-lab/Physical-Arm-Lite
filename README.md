@@ -25,7 +25,6 @@
 
 6장 : 로보틱스 시뮬레이션
   - Gazebo
-  - 종합과제 1 : 탑 쌓기
   - Isaac Sim 소개
   - Digital Twin
 
