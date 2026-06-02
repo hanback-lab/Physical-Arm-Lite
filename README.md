@@ -31,6 +31,10 @@
   - [8-2. Dataset & Training](/Chapter08.%20Pick%20the%20Red%20Token/8-2.%20Dataset%20&%20Training.md)
   - [8-3. Robot Control](/Chapter08.%20Pick%20the%20Red%20Token/8-3.%20Robot%20Control.md)
 
-**9장 Stacking Tokens**
-  - [9-1. Preparation](/Chapter09.%20Stacking%20Tokens/9-1.%20Preparation.md)
-  - [9-2. Training & Control](/Chapter09.%20Stacking%20Tokens/9-2.%20Training%20&%20Control.md)
+**9장 Classification Tokens**
+  - [9-1. Preparation](/Chapter09.%20Classification%20Tokens/9-1.%20Preparation.md)
+  - [9-2. Training & Control](/Chapter09.%20Classification%20Tokens/9-2.%20Training%20&%20Control.md)
+
+**10장 Stacking Tokens**
+  - [10-1. Preparation](/Chapter10.%20Stacking%20Tokens/10-1.%20Preparation.md)
+  - [10-2. Training & Control](/Chapter10.%20Stacking%20Tokens/10-2.%20Training%20&%20Control.md)
