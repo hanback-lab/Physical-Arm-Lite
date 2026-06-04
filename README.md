@@ -22,9 +22,9 @@
 
 **7장 AI Overview**
   - [7-1. VLA 개요](/Chapter07.%20AI%20Overview/7-1.%20VLA%20개요.md)
-  - [7-2. LeIsaac & Isaac GR00T](/Chapter07.%20AI%20Overview/7-2.%20LeIsaac%20&%20Isaac%20GR00T.md)
-  - [7-3. LeRobot 개요](/Chapter07.%20AI%20Overview/7-3.%20LeRobot%20개요.md)
-  - [7-4. Camaera Calibration](/Chapter07.%20AI%20Overview/7-4.%20Camera%20Calibration.md)
+  - [7-2. LeRobot 개요](/Chapter07.%20AI%20Overview/7-2.%20LeRobot%20개요.md)
+  - [7-3. LeIsaac & Isaac GR00T](/Chapter07.%20AI%20Overview/7-3.%20LeIsaac%20&%20Isaac%20GR00T.md)
+  - [7-4. Camera Calibration](/Chapter07.%20AI%20Overview/7-4.%20Camera%20Calibration.md)
 
 **8장 Pick the Red Token**
   - [8-1. Preparation](/Chapter08.%20Pick%20the%20Red%20Token/8-1.%20Preparation.md)
