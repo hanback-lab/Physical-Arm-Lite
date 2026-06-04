@@ -21,8 +21,8 @@
   - [6-3. Digital Twin](/Chapter06.%20Robotics%20Simulation/6-3.%20Digital%20Twin.md)
 
 **7장 AI Overview**
-  - [7-1. VLA 개요](/Chapter07.%20AI%20Overview/7-1.%20VLA%20개요.md)
-  - [7-2. LeRobot 개요](/Chapter07.%20AI%20Overview/7-2.%20LeRobot%20개요.md)
+  - [7-1. LeRobot 개요](/Chapter07.%20AI%20Overview/7-1.%20LeRobot%20개요.md)
+  - [7-2. VLA 개요](/Chapter07.%20AI%20Overview/7-2.%20VLA%20개요.md)
   - [7-3. LeIsaac & Isaac GR00T](/Chapter07.%20AI%20Overview/7-3.%20LeIsaac%20&%20Isaac%20GR00T.md)
   - [7-4. Camera Calibration](/Chapter07.%20AI%20Overview/7-4.%20Camera%20Calibration.md)
 
