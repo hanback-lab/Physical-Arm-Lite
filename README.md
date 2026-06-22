@@ -21,5 +21,20 @@
   - [6-3. Digital Twin](/Chapter06.%20Robotics%20Simulation/6-3.%20Digital%20Twin.md)
 
 **7장 AI Overview**
-  - [7-1. VLA 개요](/Chapter07.%20AI%20Overview/7-1.%20VLA%20개요.md)
-  - [7-2. LeIsaac & Isaac GR00T](/Chapter07.%20AI%20Overview/7-2.%20LeIsaac%20&%20Isaac%20GR00T.md)
+  - [7-1. LeRobot 개요](/Chapter07.%20AI%20Overview/7-1.%20LeRobot%20개요.md)
+  - [7-2. VLA 개요](/Chapter07.%20AI%20Overview/7-2.%20VLA%20개요.md)
+  - [7-3. Google Colab](/Chapter07.%20AI%20Overview/7-3.%20Google%20Colab.md)
+  - [7-4. LeIsaac & Isaac Sim](/Chapter07.%20AI%20Overview/7-4.%20LeIsaac%20&%20Isaac%20GR00T.md)
+  - [7-5. Camera Calibration](/Chapter07.%20AI%20Overview/7-5.%20Camera%20Calibration.md)
+
+**8장 Pick the Red Token**
+  - [8-1. Preparation](/Chapter08.%20Pick%20the%20Red%20Token/8-1.%20Preparation.md)
+  - [8-2. Dataset & Training](/Chapter08.%20Pick%20the%20Red%20Token/8-2.%20Dataset%20&%20Training.md)
+
+**9장 Classify Tokens**
+  - [9-1. Preparation](/Chapter09.%20Classify%20Tokens/9-1.%20Preparation.md)
+  - [9-2. Dataset & Training](/Chapter09.%20Classify%20Tokens/9-2.%20Dataset%20&%20Training.md)
+
+**10장 Stack Tokens**
+  - [10-1. Preparation](/Chapter10.%20Stack%20Tokens/10-1.%20Preparation.md)
+  - [10-2. Dataset & Training](/Chapter10.%20Stack%20Tokens/10-2.%20Dataset%20&%20Training.md)
